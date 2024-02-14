@@ -1,0 +1,6 @@
+train: /home/ubuntu/workspace/new_dataset/train/images
+val: /home/ubuntu/workspace/new_dataset/val/images
+test: /home/ubuntu/workspace/new_dataset/test/images
+
+nc: 2
+names: ['building', 'pool']
